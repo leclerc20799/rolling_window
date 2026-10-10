@@ -1,6 +1,6 @@
 {
   "name": "rolling-window",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tracks min, max, and average for sliding windows over number streams.",
   "type": "module",
   "main": "src/index.js",
